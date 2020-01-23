@@ -1,2 +1,2 @@
 Hello Git 123
-It's new line 12312
+It's new line
